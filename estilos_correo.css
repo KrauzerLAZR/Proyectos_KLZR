@@ -1,0 +1,80 @@
+body {
+    background-color: #000000; 
+    margin: 0px; 
+    padding: 0px;
+}
+
+#divPrin {
+    background-image: url(https://lh3.googleusercontent.com/pw/AJFCJaXEkDwNV_Gso6gH4BpDw30roIFXERfQevktrsVCGmUHK66m1sg3FMBAyt1D-IgRcr1qyGolQiPGEPoZZJA4O56ddq9XV9siG1jAP_wI9Np8tAOGPg); 
+    width: 100%; 
+    height: 1550px; 
+    position: absolute; 
+    font-family: Raleway;
+}
+
+#divDos {
+    background-color: rgba(0, 0, 0, 0.85); 
+    width: 100%; 
+    height: 100%; 
+    position: absolute; 
+    top: 0; 
+    left: 0;
+}
+
+#tablaPrin {
+    background-color: #ffffff; 
+    width: 542px; 
+    height: 1504px; 
+    border-color: #ffffff; 
+    margin: 30px auto; 
+    border-spacing: 0px;
+}
+
+
+#celdaUno {
+    display:inline-block; 
+    padding: 4%; 
+    background-color: #eeeeee;
+}
+#img_celdaUno{
+    width: 50%; 
+    margin-left: 120px;
+}
+
+
+
+#celdaDos {
+    display: block; 
+    width: 430px; 
+    margin-top: 25px; 
+    margin-left: 50px; 
+    text-align: justify; 
+    font-size: 15px;
+}
+#entrada_celdaDos {
+    font-weight: bold;
+}
+#texto_celdaDos {
+    font-weight: 550;
+}
+
+
+
+#celdaTres {
+    display: block; 
+    width: 290px; 
+    margin-top: -15px; 
+    margin-left: 120px; 
+    text-align: center;
+}
+#titulo_celdaTres {
+    font-weight: 800; 
+    font-size: 20px; 
+    font-style: italic;
+}
+
+
+
+#celdaCuatro {
+    
+}
